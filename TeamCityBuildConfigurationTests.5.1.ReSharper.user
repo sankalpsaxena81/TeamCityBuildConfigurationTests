@@ -1,0 +1,207 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="93209B71-F005-48AC-B5D2-84206B8D6C7E/f:EnumerableExtensions.cs" caret="2081" fromTop="15" />
+      <File id="93209B71-F005-48AC-B5D2-84206B8D6C7E/f:XElementParser.cs" caret="548" fromTop="14" />
+      <File id="93209B71-F005-48AC-B5D2-84206B8D6C7E/f:Request.cs" caret="264" fromTop="13" />
+      <File id="93209B71-F005-48AC-B5D2-84206B8D6C7E/f:TcBuildType.cs" caret="2223" fromTop="11" />
+      <File id="93209B71-F005-48AC-B5D2-84206B8D6C7E/f:TcProject.cs" caret="1599" fromTop="7" />
+      <File id="FC4B48B6-E788-4E6A-BFB7-E5D59E1D9BE0/f:SampleTest.cs" caret="1274" fromTop="18" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="93209B71-F005-48AC-B5D2-84206B8D6C7E/f:TcProject.cs" caret="1288" fromTop="15" />
+      <File id="93209B71-F005-48AC-B5D2-84206B8D6C7E/f:TcProject.cs" caret="2233" fromTop="9" />
+      <File id="93209B71-F005-48AC-B5D2-84206B8D6C7E/f:TcProject.cs" caret="2233" fromTop="12" />
+      <File id="93209B71-F005-48AC-B5D2-84206B8D6C7E/f:TcBuildType.cs" caret="130" fromTop="4" />
+      <File id="93209B71-F005-48AC-B5D2-84206B8D6C7E/f:TcBuildType.cs" caret="1171" fromTop="24" />
+      <File id="93209B71-F005-48AC-B5D2-84206B8D6C7E/f:TcBuildType.cs" caret="1018" fromTop="17" />
+      <File id="93209B71-F005-48AC-B5D2-84206B8D6C7E/f:TcBuildType.cs" caret="1134" fromTop="22" />
+      <File id="93209B71-F005-48AC-B5D2-84206B8D6C7E/f:TcBuildType.cs" caret="2928" fromTop="30" />
+      <File id="93209B71-F005-48AC-B5D2-84206B8D6C7E/f:TcBuildType.cs" caret="2891" fromTop="21" />
+      <File id="93209B71-F005-48AC-B5D2-84206B8D6C7E/f:TcBuildType.cs" caret="1318" fromTop="12" />
+      <File id="93209B71-F005-48AC-B5D2-84206B8D6C7E/f:TcBuildType.cs" caret="1497" fromTop="13" />
+      <File id="FC4B48B6-E788-4E6A-BFB7-E5D59E1D9BE0/f:SampleTest.cs" caret="74" fromTop="1" />
+      <File id="93209B71-F005-48AC-B5D2-84206B8D6C7E/f:Request.cs" caret="137" fromTop="8" />
+      <File id="93209B71-F005-48AC-B5D2-84206B8D6C7E/f:Request.cs" caret="440" fromTop="19" />
+      <File id="93209B71-F005-48AC-B5D2-84206B8D6C7E/f:TcProject.cs" caret="417" fromTop="15" />
+      <File id="93209B71-F005-48AC-B5D2-84206B8D6C7E/f:TcBuildType.cs" caret="1740" fromTop="16" />
+      <File id="93209B71-F005-48AC-B5D2-84206B8D6C7E/f:TcBuildType.cs" caret="2209" fromTop="18" />
+      <File id="93209B71-F005-48AC-B5D2-84206B8D6C7E/f:TcBuildType.cs" caret="2046" fromTop="16" />
+      <File id="FC4B48B6-E788-4E6A-BFB7-E5D59E1D9BE0/f:SampleTest.cs" caret="1343" fromTop="11" />
+      <File id="FC4B48B6-E788-4E6A-BFB7-E5D59E1D9BE0/f:SampleTest.cs" caret="665" fromTop="2" />
+      <File id="FC4B48B6-E788-4E6A-BFB7-E5D59E1D9BE0/f:SampleTest.cs" caret="1659" fromTop="10" />
+      <File id="FC4B48B6-E788-4E6A-BFB7-E5D59E1D9BE0/f:SampleTest.cs" caret="1401" fromTop="7" />
+      <File id="93209B71-F005-48AC-B5D2-84206B8D6C7E/f:TcProject.cs" caret="1504" fromTop="9" />
+      <File id="FC4B48B6-E788-4E6A-BFB7-E5D59E1D9BE0/f:SampleTest.cs" caret="586" fromTop="3" />
+      <File id="93209B71-F005-48AC-B5D2-84206B8D6C7E/f:TcProject.cs" caret="1907" fromTop="13" />
+      <File id="93209B71-F005-48AC-B5D2-84206B8D6C7E/f:TcProject.cs" caret="1682" fromTop="16" />
+      <File id="93209B71-F005-48AC-B5D2-84206B8D6C7E/f:TcProject.cs" caret="2085" fromTop="13" />
+      <File id="FC4B48B6-E788-4E6A-BFB7-E5D59E1D9BE0/f:SampleTest.cs" caret="1346" fromTop="20" />
+      <File id="FC4B48B6-E788-4E6A-BFB7-E5D59E1D9BE0/f:SampleTest.cs" caret="1173" fromTop="16" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="HttpClientResponse`0" priority="0" />
+      <Item value="public" priority="7" />
+      <Item value="var" priority="0" />
+      <Item value="new" priority="14" />
+      <Item value="UserCredentials" priority="0" />
+      <Item value="UserName" priority="1" />
+      <Item value="Password" priority="1" />
+      <Item value="SecureString" priority="0" />
+      <Item value="string" priority="5" />
+      <Item value="try" priority="0" />
+      <Item value="test" priority="2" />
+      <Item value="HttpClient`0" priority="0" />
+      <Item value="WebRequest`0" priority="0" />
+      <Item value="client" priority="1" />
+      <Item value="webRequest" priority="3" />
+      <Item value="NetworkAccess`0" priority="0" />
+      <Item value="class" priority="1" />
+      <Item value="Domain" priority="0" />
+      <Item value="return" priority="5" />
+      <Item value="static" priority="1" />
+      <Item value="TcProject`0" priority="2" />
+      <Item value="private" priority="0" />
+      <Item value="Uri" priority="1" />
+      <Item value="FileStyleUriParser`0" priority="0" />
+      <Item value="response" priority="1" />
+      <Item value="xElement" priority="0" />
+      <Item value="rootElement" priority="0" />
+      <Item value="projects" priority="1" />
+      <Item value="if" priority="8" />
+      <Item value="List" priority="3" />
+      <Item value="tcProjects" priority="1" />
+      <Item value="p" priority="1" />
+      <Item value="allProjects" priority="0" />
+      <Item value="branchProjects" priority="0" />
+      <Item value="bp" priority="4" />
+      <Item value="TcBuildType`0" priority="3" />
+      <Item value="BuildType" priority="1" />
+      <Item value="b" priority="1" />
+      <Item value="buildTypes" priority="2" />
+      <Item value="buildTypesList" priority="1" />
+      <Item value="bt" priority="2" />
+      <Item value="vcsRoot" priority="1" />
+      <Item value="prop" priority="1" />
+      <Item value="TcVCSRoot`0" priority="1" />
+      <Item value="VcsRoot" priority="1" />
+      <Item value="properties" priority="0" />
+      <Item value="property" priority="0" />
+      <Item value="foreach" priority="3" />
+      <Item value="element" priority="0" />
+      <Item value="null" priority="1" />
+      <Item value="_vcsRoot" priority="1" />
+      <Item value="GetVCSRoot`0" priority="0" />
+      <Item value="List`0" priority="0" />
+      <Item value="vcsList" priority="0" />
+      <Item value="uri" priority="4" />
+      <Item value="baseUrl" priority="0" />
+      <Item value="Uri`0" priority="0" />
+      <Item value="else" priority="0" />
+      <Item value="buildproject" priority="1" />
+      <Item value="vcsDict" priority="3" />
+      <Item value="k" priority="1" />
+      <Item value="using" priority="0" />
+      <Item value="YamlDotNet" priority="0" />
+      <Item value="Core" priority="0" />
+      <Item value="Tokens" priority="0" />
+      <Item value="Parser`0" priority="0" />
+      <Item value="TextReader`0" priority="0" />
+      <Item value="File`0" priority="0" />
+      <Item value="while" priority="0" />
+      <Item value="parser" priority="1" />
+      <Item value="_buildType" priority="1" />
+      <Item value="LoadBuildTypes`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Infrastructure.ContractTestHttpClient">
+      <Item value="Get`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Net.WebRequest">
+      <Item value="Credentials" priority="1" />
+      <Item value="Method" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Xml.Linq.XElement">
+      <Item value="Parse`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Core.XElementParser">
+      <Item value="For`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Core.XElementParser">
+      <Item value="Elements`0" priority="2" />
+      <Item value="ElementValue`1" priority="0" />
+      <Item value="AttributeValue`1" priority="5" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add`0" priority="2" />
+      <Item value="FindAll`0" priority="1" />
+      <Item value="ForEach`0" priority="0" />
+      <Item value="Find`0" priority="0" />
+      <Item value="Contains`0" priority="0" />
+      <Item value="Count" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Core.TcProject">
+      <Item value="GetAllProjects`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Core.TcProject">
+      <Item value="Name" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="EndsWith`0" priority="0" />
+      <Item value="Contains`0" priority="3" />
+      <Item value="Equals`0" priority="3" />
+      <Item value="Replace`0" priority="0" />
+      <Item value="StartsWith`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="ForEach`1" priority="0" />
+      <Item value="GetEnumerator`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Core.TcBuildType">
+      <Item value="Name" priority="1" />
+      <Item value="VcsRoot" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Core.TcVCSRoot">
+      <Item value="Location" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Uri">
+      <Item value="AbsolutePath" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.Dictionary`2">
+      <Item value="Keys" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.Dictionary`2+KeyCollection">
+      <Item value="ForEach`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@NUnit.Framework.Assert">
+      <Item value="IsTrue`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.File">
+      <Item value="OpenText`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:YamlDotNet.Core.Parser">
+      <Item value="MoveNext`0" priority="0" />
+      <Item value="Current" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
